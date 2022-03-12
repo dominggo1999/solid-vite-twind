@@ -1,0 +1,1 @@
+Basic [SolidJS](https://github.com/solidjs/solid) template using [vite](https://vitejs.dev/) and [twind](https://github.com/tw-in-js/twind)
